@@ -14,13 +14,17 @@ It just works, the code is not remotely close to being done.
 # Where does the data come from?
 The data comes from a program I made called CurveMaker that takes an image of a shape, finds contours, and saves them in a text file. The text file that is created by CurveMaker is then used by DFT. I will not be sharing CurveMaker code yet since DTF is just a prototype and will eventually be merged with CurveMaker in an attemp to create a full done and functioning program.
 
+# What libraries does DFT use?
+The only not standard library that I use in this project is SFML.
+`SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia application.'
+https://www.sfml-dev.org/
+
 # Videos created in DFT
 [![Heart being drawn using 10 circles](https://img.youtube.com/vi/1mlfrY3zZhw/0.jpg)](http://www.youtube.com/watch?v=1mlfrY3zZhw)
 [![Heart being drawn using 50/100 circles. (This video was taken a long time ago, and I don't remember the precise number o circles).](https://img.youtube.com/vi/RPOd6p5jZBU/0.jpg)](http://www.youtube.com/watch?v=RPOd6p5jZBU)
 [![Twitter](https://img.youtube.com/vi/TqnXOXs5jjw/0.jpg)](http://www.youtube.com/watch?v=TqnXOXs5jjw)
 [![Snowflake shape](https://img.youtube.com/vi/YWogU_hj87o/0.jpg)](http://www.youtube.com/watch?v=YWogU_hj87o)
 [![User shape re-drawn](https://img.youtube.com/vi/AfE4H6LQC1c/0.jpg)](http://www.youtube.com/watch?v=AfE4H6LQC1c)
-
 
 
 
