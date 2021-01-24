@@ -12,7 +12,7 @@ In the next DFT updates, these features will be implemented in their respective 
 It just works, the code is not remotely close to being done.
 
 # Where does the data come from?
-The data comes from a program I made called CurveMaker that takes an image of a shape, finds contours, and saves them in a text file. The text file that is created by CurveMaker is then used by DFT. I will not be sharing CurveMaker code yet since DTF is just a prototype and will eventually be merged with CurveMaker in an attemp to create a full done and functioning program.
+The data comes from a program I made called CurveMaker that takes an image of a shape, finds contours, and saves them in a text file. The text file that is created by CurveMaker is then used by DFT. I will not be sharing CurveMaker code yet since DTF is just a prototype and will eventually be merged with CurveMaker in an attemp to create a fully done and functioning program.
 
 # What libraries does DFT use?
 The only not standard library that I use in this project is SFML.
