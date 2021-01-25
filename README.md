@@ -6,7 +6,7 @@ DFT is also able to re-draw what the user has drawn in an app (see the last vide
 
 # DFT is in an early development stage! 
 It is full of unnecessary variables, methods, it lacks basic classes like e.x. engine class or menu class.
-Most implemented features like changing the end of an arrow that the camera focuses on, zooming in and out, drawing
+Most implemented features like changing the end of an arrow that the camera focuses on, zooming in and out, drawing(by the user)
 are simply prototypes done only in main.cpp.
 In the next DFT updates, these features will be implemented in their respective classes, and way more optimized. 
 It just works, the code is not remotely close to being done.
