@@ -4,7 +4,7 @@ Discrete Fourier Transform is a program that takes "shape data" as ordered x and
 created based on Discrete Fourier Transform that works together to recreate the shape.
 DFT is also able to re-draw what the user has drawn in an app (see the last video, I know I can't draw, but my program can!).
 
-# DFT is in an early development stage!!!
+# DFT is in an early development stage! 
 It is full of unnecessary variables, methods, it lacks basic classes like e.x. engine class or menu class.
 Most implemented features like changing the end of an arrow that the camera focuses on, zooming in and out, drawing
 are simply prototypes done only in main.cpp.
