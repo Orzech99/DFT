@@ -16,8 +16,8 @@ The data comes from a program I made called CurveMaker that takes an image of a 
 
 # What libraries does DFT use?
 The only not standard library that I use in this project is SFML.
-`SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia application.'
-https://www.sfml-dev.org/
+`SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia application.`
+- https://www.sfml-dev.org/
 
 # Videos created in DFT
 [![Heart being drawn using 10 circles](https://img.youtube.com/vi/1mlfrY3zZhw/0.jpg)](http://www.youtube.com/watch?v=1mlfrY3zZhw)
